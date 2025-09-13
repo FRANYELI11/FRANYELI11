@@ -2,7 +2,7 @@
 <img align="right" width="250" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
 
 👋 Hola, soy **Franyeli De Leon Santana**  
-💻 Estudiante de **Desarrollo y Administración de Aplicaciones Informáticas**  
+💻 Estudiante de **Desarrollo y Administración de Sistemas Informáticos**  
 🎨 Apasionada por crear proyectos web modernos y funcionales  
 
 ---
